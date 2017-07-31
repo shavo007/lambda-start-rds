@@ -35,4 +35,4 @@ functions:
          - schedule:
              name: start-rds-scheduler
              description: 'scheduled start fn for rds instances'
-             rate: cron(0 21 ? * MON-FRI *)
+             rate: cron(0 21 ? * SUN-THU *)
