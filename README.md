@@ -26,7 +26,7 @@ All fields are required and time zone is UTC only.
 Read the [AWS cron expression syntax](http://docs.aws.amazon.com/lambda/latest/dg/tutorial-scheduled-events-schedule-expressions.html) docs for more info on how to setup cron
 
 
-**The function is scheduled to execute at 9PM MON-FRI (UTC time)**
+**The function is scheduled to execute at 21:00 SUN-THU/UTC time (This is every weekday morning in Melbourne)**
 
 ## Setup
 
